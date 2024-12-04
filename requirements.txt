@@ -1,0 +1,4 @@
+streamlit
+streamlit-webrec
+opencv-python-headless
+av
